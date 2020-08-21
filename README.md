@@ -1,16 +1,19 @@
-### Hi there 👋
+Привет 👋🏻,
 
-<!--
-**nikitos42050/nikitos42050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Бекенд-разработчик.
+Создаю ботов и сайты на заказ.
 
-Here are some ideas to get you started:
+## 📬 Связаться
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web: [davice.ru][1]
+- VK: [vk.com/id107832372][2]
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/nikitos42050/nikitos42050">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitos42050&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
