@@ -4,9 +4,9 @@
 Создаю ботов и сайты на заказ.
 
 ## 📬 Связаться
-- Web: [natterstefan.me][1]
-- Web: [davice.ru]
-- VK: [vk.com/id107832372]
+
+- Web: [![Сайт](https://img.shields.io/badge/VK-blue.svg?style=flat-square)](https://vk.com/id107832372)
+- VK: [![Я во ВКонтакте](https://img.shields.io/badge/VK-blue.svg?style=flat-square)](https://vk.com/id107832372)
 
 ## &#x1f4c8; Моя статистика GitHub
 
