@@ -5,7 +5,7 @@
 
 ## 📬 Связаться
 
-- Web: [about.davydov.ml](https://about.davydov.ml)
+- Web: [about.davydov.ml](https://about.davydov.ml) (ВРЕМЕННО НЕТ)
 - VK: [Nikita Davydov](https://vk.com/id107832372)
 
 ## &#x1f4c8; Моя статистика GitHub
