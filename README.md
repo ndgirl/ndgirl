@@ -1,11 +1,10 @@
 Привет 👋🏻,
 
-Бекенд-разработчик.
-Создаю ботов и сайты на заказ.
+Я разработчик со знаниями: C#, JavaSript, TypeScript, PHP, HTML, CSS и MySQLi.
 
 ## 📬 Связаться
 
-- Web: [about.davydov.ml](https://about.davydov.ml) (ВРЕМЕННО НЕТ)
+- Web: [ndgirl.rul](https://ndgirl.ru)
 - VK: [Nikita Davydov](https://vk.com/id107832372)
 
 ## &#x1f4c8; Моя статистика GitHub
